@@ -18,7 +18,7 @@ Defines the default blue color as a constant to avoid duplicating that informati
 
 ##NotesTableViewCell
 
-Displays a a note, including title and creation date.
+Displays a a note, including title and creation date. done.
 
 ##NotesViewController
 
